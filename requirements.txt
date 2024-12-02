@@ -11,6 +11,5 @@ google-auth-httplib2
 google-auth-oauthlib
 youtube_dl
 ffmpeg
-tenacity
-postgresql   
+tenacity 
 psycopg2-binary
